@@ -13,7 +13,6 @@
 		86368E59232C643C00EA937F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86368E58232C643C00EA937F /* Assets.xcassets */; };
 		86368E5C232C643C00EA937F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86368E5A232C643C00EA937F /* LaunchScreen.storyboard */; };
 		86368E64232C64DC00EA937F /* schedule.png in Resources */ = {isa = PBXBuildFile; fileRef = 86368E63232C64DC00EA937F /* schedule.png */; };
-		86368E66232C669000EA937F /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86368E65232C669000EA937F /* HomeController.swift */; };
 		86368E69232C6A8000EA937F /* 002-list.png in Resources */ = {isa = PBXBuildFile; fileRef = 86368E67232C6A8000EA937F /* 002-list.png */; };
 		86368E6A232C6A8000EA937F /* 001-plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 86368E68232C6A8000EA937F /* 001-plus.png */; };
 		86368E6C232C73A900EA937F /* 001-user.png in Resources */ = {isa = PBXBuildFile; fileRef = 86368E6B232C73A800EA937F /* 001-user.png */; };
@@ -28,7 +27,6 @@
 		86368E5B232C643C00EA937F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86368E5D232C643C00EA937F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86368E63232C64DC00EA937F /* schedule.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = schedule.png; sourceTree = "<group>"; };
-		86368E65232C669000EA937F /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		86368E67232C6A8000EA937F /* 002-list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "002-list.png"; sourceTree = "<group>"; };
 		86368E68232C6A8000EA937F /* 001-plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-plus.png"; sourceTree = "<group>"; };
 		86368E6B232C73A800EA937F /* 001-user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-user.png"; sourceTree = "<group>"; };
@@ -72,7 +70,6 @@
 				86368E6B232C73A800EA937F /* 001-user.png */,
 				86368E67232C6A8000EA937F /* 002-list.png */,
 				86368E5A232C643C00EA937F /* LaunchScreen.storyboard */,
-				86368E65232C669000EA937F /* HomeController.swift */,
 				86368E5D232C643C00EA937F /* Info.plist */,
 				86368E63232C64DC00EA937F /* schedule.png */,
 			);
@@ -156,7 +153,6 @@
 			files = (
 				86368E54232C643B00EA937F /* ViewController.swift in Sources */,
 				86368E52232C643B00EA937F /* AppDelegate.swift in Sources */,
-				86368E66232C669000EA937F /* HomeController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
